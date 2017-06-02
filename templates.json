@@ -571,11 +571,11 @@
     "env": [
       {
         "name": "PMA_HOST",
-        "label": "Database host eg. 172.17.0.1"
+        "label": "Database host"
       },
       {
         "name": "PMA_ARBITRARY",
-        "label": "When set to 1 connection to the arbitrary server will be allowed"
+        "label": "Arbitrary server"
       }
     ],
     "ports": [
