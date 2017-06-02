@@ -571,7 +571,7 @@
     "env": [
       {
         "name": "PMA_HOST",
-        "label": "Database host eg. "172.17.0.1"
+        "label": "Database host eg. 172.17.0.1"
       },
       {
         "name": "PMA_ARBITRARY",
